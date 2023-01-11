@@ -1,4 +1,5 @@
-# Classification-of-Stars-from-a-NASA-datasetThis project deals with Star type classification using Machine Learning on Python. NASA
+# Classification-of-Stars-from-a-NASA-dataset
+This project deals with Star type classification using Machine Learning on Python. NASA
 has a Star and Exoplanet database that consists of tremendous amounts of raw data. This
 project aims at classifying the data using various Machine learning techniques. The
 classification of data creates pathways for predictive analysis of planetary systems based on
